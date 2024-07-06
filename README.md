@@ -146,7 +146,7 @@ Before you begin, ensure you have the following installed on your machine:
 ## Project Structure
 
 ```sh
-chat-application/
+springboot-kafka-docker/
 ├── consumer/          # Spring Boot consumer application
 ├── producer/          # Spring Boot producer application
 ├── frontend-ui/       # React frontend application
