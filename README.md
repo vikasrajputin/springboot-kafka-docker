@@ -2,6 +2,8 @@
 
 Welcome to the chat application built using Apache Kafka, Spring Boot, and Docker. This guide will walk you through the steps to set up and run the project.
 
+![Chat Application Screenshot](Kafka-project-sample.gif)
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
