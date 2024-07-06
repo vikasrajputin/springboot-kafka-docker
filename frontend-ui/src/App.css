@@ -1,0 +1,21 @@
+.app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f2f5;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.chat-container {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  width: 80%;
+  height: 80%;
+}
+
+.chat-container > div {
+  flex: 1;
+}
